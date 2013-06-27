@@ -1,0 +1,1 @@
+(function(e,n){var t={init:function(n){n.on("click",function(){var n=e(this),o=t.getSize(n);o+=1,t.setFontSize(n,o)})},getSize:function(e){return parseInt(e.css("font-size"),10)},setFontSize:function(e,n){e.css("font-size",n)}};n.yourModule=t})(jQuery,window.app||(window.app={}));

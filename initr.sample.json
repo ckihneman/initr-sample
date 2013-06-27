@@ -1,0 +1,28 @@
+{
+  "name": "initr-sample",
+  "title": "Initr Sample",
+  "description": "A sample project for setting up Initr.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mindgruve/initr-sample",
+  "author": {
+    "name": "Chris Kihneman",
+    "email": "ckihneman@mindgruve.com",
+    "url": "http://ckihneman.github.com",
+    "company": "Mindgruve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mindgruve/initr-sample.git"
+  },
+  "bugs": "https://github.com/mindgruve/initr-sample/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mindgruve/initr-sample/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.7.0+"
+  },
+  "keywords": []
+}
