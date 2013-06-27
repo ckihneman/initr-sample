@@ -1,10 +1,12 @@
 # Initr Sample
 
-A sample project for setting up Initr.
+A sample project for setting up [Initr](https://github.com/mindgruve/initr).
 
 This repo serves as a complete example of how to set up Initr for development and production. The bulk of the work is handled by [grunt](http://gruntjs.com/).
 
 While this example uses php to hold a configuration variable, this can easily be substituted out for any other server language. The point here is to not have to update your HTML and JavaScipt for development or production. Change one config var on your server from `true` to `false` and Initr will begin fetching minified versions of your scripts.
+
+Built by [Chris Kihneman](http://ckihneman.github.com/) at [Mindgruve](http://mindgruve.com/).
 
 ## Get it running
 
